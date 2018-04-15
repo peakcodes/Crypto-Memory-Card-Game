@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/images/btc.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/xrp.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/altcoins.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "/assets/images/bch.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "/assets/images/block.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "/assets/images/btcnauts.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "/assets/images/dash.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "/assets/images/doge.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "/assets/images/ltc.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "/assets/images/eth.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "/assets/images/fct.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "/assets/images/xmr.jpeg",
+        "clicked": false
+    }
+]
